@@ -1,0 +1,7 @@
+# litellm_config.yaml
+model_list:
+  - model_name: deepseek-chat
+    litellm_params:
+      model: openai/deepseek-chat
+      api_base: https://api.deepseek.com/v1
+      api_key: sk-ae7b6826497440d4834ec9cf1ae04d77
